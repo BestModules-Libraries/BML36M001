@@ -1,24 +1,16 @@
 <div align=center>
-<img src="https://github.com/BestModules-Libraries/img/blob/main/BMN31K522_V1.0.png" width="240" height="240"> 
+<img src="https://github.com/BestModules-Libraries/img/blob/main/BML36M001_V1.0.png" width="240" height="240"> 
 </div> 
 
 
-BMN31K522 
+BML36M001 
 ===========================================================
 
-The BMN31K522 is an atomization Adapter module launched by Flextron, using UART communication method.This document describes the Arduino Lib function and Arduino Lib installation method of BMN31K522. The sample demonstrates the fogging function and the fog gear switching function.
+The Best Modules BML36M001 is a laser ranging module, which uses the I2C communication method. This document provides the description of the BML36M001 Arduino Lib functions and how to install the Arduino Lib. The example demonstrates the function of ranging.
 
-#### Applicable types:
-<div align=center>
 
-|Part No.   |Description                   |
-|:---------:|:----------------------------:|
-|BM52O5221-1|atomization module|
-|BMN31K522  |Atomization Adapter module,contains a transfer control board and the BM52O5221-1 module|
 
-</div> 
-
-This library can be installed via the Arduino Library manager. Search for **BMN31K522**. 
+This library can be installed via the Arduino Library manager. Search for **BML36M001**. 
 
 Repository Contents
 -------------------
@@ -31,7 +23,7 @@ Repository Contents
 Documentation 
 -------------------
 
-* **[BMN31K522 Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bmn31k522.html#tab-product2 )** - Arduino Library Description.
+* **[BML36M001 Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bml36m001.html#tab-product2 )** - Arduino Library Description.
 
 Version History  
 -------------------
