@@ -33,6 +33,8 @@ Version History
 * **V1.0.2**  
 &emsp;&emsp;- Remove redundant macro definitions;  
 &emsp;&emsp;- Change the constructor default;  
+* **V1.0.3**  
+&emsp;&emsp;- Change the content of the function "VL53L1_readDoubleWord" to make the function "setIntermeasurementPeriod" correct;
 
 License Information
 -------------------
