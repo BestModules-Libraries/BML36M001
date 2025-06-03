@@ -6,9 +6,17 @@
 BML36M001 
 ===========================================================
 
-The Best Modules BML36M001 is a laser ranging module, which uses the I2C communication method. This document provides the description of the BML36M001 Arduino Lib functions and how to install the Arduino Lib. The example demonstrates the function of ranging.
+The Best Modules BML36M001 is a laser ranging module, which uses the I2C communication method. This document provides the description of the BML36M001 Arduino Lib functions and how to install the Arduino Lib. The example demonstrates the function of ranging with the BML36M001/BML36M001A modle.
 
+#### Applicable types:
+<div align=center>
 
+|Part No.   |Description                               |
+|:---------:|:----------------------------------------:|
+|BML36M001  |Laser Ranging Module                      |
+|BML36M001A |Laser Ranging Module                      |
+
+</div> 
 
 This library can be installed via the Arduino Library manager. Search for **BML36M001**. 
 
@@ -23,7 +31,7 @@ Repository Contents
 Documentation 
 -------------------
 
-* **[BML36M001 Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bml36m001.html#tab-product2 )** - Arduino Library Description.
+* **[BML36M001 Arduino Library Description]( https://www.bestmodulescorp.com/bml36m001.html#tab-product2 )** - Arduino Library Description.
 
 Version History  
 -------------------
@@ -32,10 +40,12 @@ Version History
 &emsp;&emsp;- Initial public release.
 * **V1.0.2**  
 &emsp;&emsp;- Remove redundant macro definitions;  
-&emsp;&emsp;- Change the constructor default;  
+&emsp;&emsp;- Change the constructor default; 
 * **V1.0.3**  
-&emsp;&emsp;- Change the content of the function "VL53L1_readDoubleWord" to make the function "setIntermeasurementPeriod" correct;
-
+&emsp;&emsp;- Change the content of the function "VL53L1_readDoubleWord" to make the function "setIntermeasurementPeriod" correct; 
+* **V1.0.4**  
+&emsp;&emsp;- Add applicable models: BML36M001A;  
+ 
 License Information
 -------------------
 
@@ -43,8 +53,8 @@ This product is _**open source**_!
 
 Please review the LICENSE.md file for license information. 
 
-If you have any questions or concerns on licensing, please contact technical support on our BESTMODULES Email:service@bestmodulescorp.com
+If you have any questions or concerns on licensing, please contact technical support on our BEST MODULES CORP. Email:service@bestmodulescorp.com
 
 Distributed as-is; no warranty is given.
 
-BESTMODULES
+BEST MODULES CORP.

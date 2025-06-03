@@ -1,8 +1,8 @@
 /*************************************************
 File:             BML36M001.h
-Author:           BESTMODULES
+Author:           BEST MODULES CORP.
 Description:      Define classes and required variables
-Version：  	  V1.0.3	 --2023-11-07
+Version：  	  V1.0.4	 --2025-03-13
 **************************************************/
 #pragma once
 
@@ -14,7 +14,7 @@ Version：  	  V1.0.3	 --2023-11-07
 class BML36M001
 {
   public:
-    BML36M001( int intPin = 22,TwoWire *theWire=&Wire); 
+    BML36M001( int intPin = 2,TwoWire *theWire=&Wire); 
     bool begin(uint8_t  i2c_addr = 0x29); 
     uint8_t getINT();
     void startRanging(); 
